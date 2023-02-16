@@ -1,3 +1,3 @@
 # Machine-Learning-Fundamentals
-Resources
+Resources <br>
 [List of articles](https://i.am.ai/roadmap/#machine-learning-roadmap)
